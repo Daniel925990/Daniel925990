@@ -1,4 +1,4 @@
-## OLá, eu sou Daniel 👋
+## Olá, eu sou Daniel 👋
 
 <!--
 **Daniel925990/Daniel925990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
